@@ -1,4 +1,4 @@
-# Fantasy Sorting/Differentials Codes 
+# Fantasy Premier League Sorting/Differentials Codes 
 
 The following are the notebooks which have been used to sort out fantasy teams and players and also produce out the differentials.
 
